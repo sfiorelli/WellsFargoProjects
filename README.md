@@ -18,5 +18,5 @@ SAS code that builds a summary table (in Teradata) of wealth management products
 ## millennial_post_process_sas
 SAS code that prepares data for millennial dashboard.
 
-## primary_foll_up_asian_sas
+## primary_roll_up_asian_sas
 SAS code that produces data for the Asian RollRate to Primary presentation.
